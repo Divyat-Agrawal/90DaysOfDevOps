@@ -1,5 +1,16 @@
 # Linux Architecture, Processes, and systemd
 
+📖 Detailed Blog Explanation:  
+Read the full beginner-friendly blog here → [Day 02 – Linux Architecture Explained](https://yourblog.hashnode.dev/day-02-linux-architecture)
+
+---
+
+## Linux Architecture
+
+
+
+# Linux Architecture, Processes, and systemd
+
 ## Linux Architecture
 
 Linux works in layers:
