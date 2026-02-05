@@ -1,11 +1,3 @@
-Great 🙌 Here is your **GitHub markdown file** with the **same content as the blog**, ready to copy and paste.
-
-Save this as:
-`day-10-file-permissions.md`
-
----
-
-````markdown
 # 🐧 Day 10 – Linux File Permissions & File Operations
 
 Today’s goal was to understand how Linux file permissions work and how to perform basic file operations like creating, reading, and modifying files.
