@@ -3,7 +3,6 @@
 This note covers two important areas:
 1. Linux File System Hierarchy (where things live)
 2. Scenario-based troubleshooting (how to think like a DevOps engineer)
-
 ---
 
 # 📁 PART 1: Linux File System Hierarchy
