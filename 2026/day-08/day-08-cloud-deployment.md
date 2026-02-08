@@ -1,9 +1,4 @@
-Awesome — here is your **complete single Markdown file**.
-Just copy everything inside the box and paste into **`day-08-cloud-deployment.md`** ✅
 
----
-
-````markdown
 # 🚀 Day 08 – Deploying My First Real Cloud Server (Docker, Nginx & Logs)
 
 Today was a major milestone in my DevOps journey. Instead of working only on my local machine, I deployed a **real server on the cloud**, connected to it remotely, installed a web server, and made my webpage accessible from the internet.
